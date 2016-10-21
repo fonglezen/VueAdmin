@@ -13,7 +13,7 @@ var useCssSourceMap = cssSourceMapDev || cssSourceMapProd
 
 module.exports = {
   entry: {
-    app: './src/main.js',
+    app: './src/routers.js',
     common: ['jquery','bootstrap']
   },
   output: {
