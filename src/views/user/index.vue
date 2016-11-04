@@ -1,4 +1,5 @@
-<style scoped>
+<style scoped lang="less">
+
     h1{
         color: #28a7e1;
         text-align: center;
@@ -6,9 +7,13 @@
         font-weight: bold;
         margin-top: 100px;
     }
+
 </style>
 <template>
-    <h1>个人中心</h1>
+    <div>
+        <h1>个人中心</h1>
+    </div>
+    
 </template>
 <script>
 
