@@ -3,6 +3,11 @@ import VueRouter from 'vue-router';
 import vueResource from 'vue-resource';
 import App from './app.vue';
 
+import 'bootstrap/dist/css/bootstrap.css'
+import 'font-awesome/css/font-awesome.min.css'
+  
+
+
 Vue.use(VueRouter);
 Vue.use(vueResource);
 

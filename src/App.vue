@@ -1,8 +1,7 @@
-<style scoped>
-  @import '../node_modules/bootstrap/dist/css/bootstrap.css';
-  @import 'less/theme.less'
-</style>
 
+<style>
+	@import 'less/theme.less'
+</style>
 <template>
   <div id="HomePage">
     
